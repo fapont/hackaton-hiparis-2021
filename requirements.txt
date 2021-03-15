@@ -1,0 +1,3 @@
+pandas
+numpy
+pymgrid @ git+https://github.com/Total-RD/pymgrid/
